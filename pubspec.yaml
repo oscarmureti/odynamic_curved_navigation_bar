@@ -1,7 +1,7 @@
 name: dynamic_curved_navigation_bar
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/oscarmureti/odynamic_curved_navigation_bar
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
