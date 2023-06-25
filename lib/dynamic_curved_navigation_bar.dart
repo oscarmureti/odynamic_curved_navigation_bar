@@ -27,6 +27,7 @@ class DynamicCurvedNavigationBar extends StatefulWidget {
     this.buttonBackgroundColor,
     this.backgroundColor = Colors.blueAccent,
     this.onTap,
+    // ignore: library_private_types_in_public_api
     _LetIndexPage? letIndexChange,
     this.animationCurve = Curves.easeOut,
     this.animationDuration = const Duration(milliseconds: 600),
